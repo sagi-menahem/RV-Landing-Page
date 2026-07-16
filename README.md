@@ -79,7 +79,7 @@ _Google PageSpeed Insights scores_
 
 All Rights Reserved.
 
-This is a commercial project. Source code is not included in this repository.
+This is a demo project. Source code is not included in this repository.
 
 ---
 
