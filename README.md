@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <h1>Insurance Landing Page Template</h1>
   <p>A premium, conversion-optimized landing page template for insurance services.<br/>Built with modern web technologies — fast, accessible, and fully responsive.</p>
 
@@ -12,13 +12,7 @@
 
 ## How This Was Built
 
-Built solo, **AI-first**: I orchestrate AI coding agents (Claude Code, Codex) through a documented methodology rather than writing every line by hand — the engineering discipline is the point, not the speed.
-
-- **`AGENTS.md` as the single source of truth** — a rules file in the repo defines the architecture, conventions, and hard constraints every agent must obey: full RTL + Hebrew support (logical Tailwind classes only, never directional), Lighthouse targets (90+ performance, 100 accessibility/best-practices/SEO), and a WCAG-compliant accessibility menu that must stay functional on every change.
-- **Guardrail scripts & audit pipelines** — automated checks run on every change (Lighthouse/Core Web Vitals checks, Git-based CMS content-model validation, lead-form validation and self-hosted-font checks), so quality is enforced by tooling, not vigilance.
-- **The engineer decides, the agent executes** — every component, content model, and architectural choice on this page was designed and reviewed by me. Agents accelerate implementation; they never own the design.
-
-The result: a polished production site delivered at team-level velocity — with the discipline the decisions below reflect.
+Built AI-first: I orchestrate AI coding agents (Claude Code, Codex) under guardrail scripts and audit pipelines that run on every change — but every component, content model, and architectural decision here was designed and reviewed by me. Agents accelerate implementation; they don't own the design.
 
 ---
 
