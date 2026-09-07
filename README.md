@@ -1,4 +1,4 @@
-![RV Insurance — Hebrew RTL landing-page demo](assets/brand/banner.svg)
+![RV Insurance — Hebrew RTL landing-page demo](assets/brand/banner.png)
 
 # RV Insurance Landing Page
 
