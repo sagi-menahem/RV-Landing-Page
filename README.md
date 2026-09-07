@@ -1,6 +1,6 @@
-![RV Insurance — Hebrew RTL landing-page demo](assets/brand/banner.png)
+![Insurance Website — Hebrew RTL landing-page demo](assets/brand/banner.png)
 
-# RV Insurance Landing Page
+# Insurance Website
 
 **Demo / reusable template case study.** This is a private-source demonstration for an insurance-agent website, not a production claim about a live client service.
 
@@ -13,8 +13,8 @@
 ## Preview
 
 <div align="center">
-  <img src="docs/screenshots/hero-desktop.png" alt="RV Insurance demo homepage on desktop" width="800" />
-  <img src="docs/screenshots/mobile-hero.png" alt="RV Insurance demo homepage on mobile" width="300" />
+  <img src="docs/screenshots/hero-desktop.png" alt="Insurance website demo homepage on desktop" width="800" />
+  <img src="docs/screenshots/mobile-hero.png" alt="Insurance website demo homepage on mobile" width="300" />
 </div>
 
 ## Problem and solution
