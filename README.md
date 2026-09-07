@@ -1,81 +1,44 @@
-﻿<div align="center">
-  <h1>Insurance Landing Page Template</h1>
-  <p>A premium, conversion-optimized landing page template for insurance services.<br/>Built with modern web technologies — fast, accessible, and fully responsive.</p>
+![RV Insurance — Hebrew RTL landing-page demo](assets/brand/banner.svg)
 
-  <br/>
+# RV Insurance Landing Page
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-rv--ins.co.il-00C853?style=for-the-badge)](https://www.rv-ins.co.il/)
+**Demo / reusable template case study.** This is a private-source demonstration for an insurance-agent website, not a production claim about a live client service.
 
-</div>
+**Type:** Demo and reusable template · **My role:** Designer and developer · **Source:** Private.
 
+[View the live demo](https://www.rv-ins.co.il/)
+
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ## Preview
 
 <div align="center">
-
-### Desktop
-
-<img src="docs/screenshots/hero-desktop.png" alt="Desktop hero section" width="800" />
-
-### Mobile
-
-<img src="docs/screenshots/mobile-hero.png" alt="Mobile hero section" width="300" />
-
+  <img src="docs/screenshots/hero-desktop.png" alt="RV Insurance demo homepage on desktop" width="800" />
+  <img src="docs/screenshots/mobile-hero.png" alt="RV Insurance demo homepage on mobile" width="300" />
 </div>
 
-## Highlights
+## Problem and solution
 
-- **Conversion-Optimized Lead Capture** — Multiple strategically placed forms designed to maximize lead generation
-- **High Performance** — 90+ Lighthouse performance score with optimized loading and rendering
-- **Full RTL + Hebrew Support** — Native right-to-left layout with Hebrew language content
-- **Git-Based CMS** — Easy content editing through a built-in admin panel, no database required
-- **Comprehensive Accessibility** — WCAG-compliant accessibility menu with grayscale, high contrast, large text, link highlighting, and reduced motion options
-- **Smooth Scroll Animations** — Viewport-triggered animations for a polished, modern feel
-- **Mobile-First Responsive Design** — Optimized layouts from mobile to ultrawide displays
-- **SEO Optimized** — Schema.org structured data, Open Graph tags, sitemap, and semantic HTML
-- **Trust Bar** — Infinite scrolling partner logo marquee for social proof
-- **Self-Hosted Fonts** — No external font requests for maximum performance and privacy
+Insurance services depend on clarity and trust at the moment a visitor decides to enquire. This template establishes a Hebrew RTL, responsive structure for presenting services, explaining the next step, and collecting leads, while leaving content manageable through a Git-based CMS.
 
-## Performance
+## Product highlights
 
-<div align="center">
+- Hebrew RTL layout and mobile-first responsive sections.
+- Lead forms and contact calls to action throughout the journey.
+- Git-based CMS for maintaining copy and page content without a database.
+- Structured metadata, sitemap, and social sharing metadata.
+- Motion used to support section transitions and visual hierarchy.
 
-| Metric         | Score |
-| -------------- | ----- |
-| Performance    | 90+   |
-| Accessibility  | 100   |
-| Best Practices | 100   |
-| SEO            | 100   |
+## Engineering decisions
 
-_Google PageSpeed Insights scores_
+- **Keep the template content-led.** The CMS workflow keeps routine editorial changes separate from layout work.
+- **Build for Hebrew from the layout outward.** Direction and responsive behaviour are part of the template structure rather than added after the English layout is complete.
+- **Self-host visual essentials.** Fonts are bundled locally to avoid making the first visit depend on a third-party font request.
 
-</div>
+## Stack
 
-## Built With
-
-<div align="center">
-
-[![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-
-</div>
-
-## License
-
-All Rights Reserved.
-
-This is a demo project. Source code is not included in this repository.
+Astro, React, TypeScript, Tailwind CSS, and Keystatic.
 
 ---
 
-<div align="center">
-
-**Built by Sagi Menahem**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sagi-menahem)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagi-menahem/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D2440?style=flat-square&logo=googlechrome&logoColor=white)](https://sagimenahem.tech)
-
-</div>
+Built by [Sagi Menahem](https://sagimenahem.tech) · [AfterTech](https://www.after-tech.co.il/)
